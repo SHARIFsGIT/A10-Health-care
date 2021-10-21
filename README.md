@@ -3,14 +3,14 @@
 This project was made with React.js (https://health-care-5d739.web.app/)
 
 ## Used languages
+JavaScript, React.js, Bootstrap
 
-For this whole project we used
+### It's a demo project for Hospitality care named "Health Care Hospital" 
 
-### JavaScript
+### You can resister by manual input or with Google.
 
-### React.js
+### People can see our hospital health services with doctors list.
 
-### Bootstrap
+### You can contact with us by fillup the send message form.
 
-**About this project**
-This is a Hospitality care website named "Health Care Hospital" where you can see the services and doctors name along with book online appoinment only after register in the website. 
+### You can see the services and doctors name along with book online appoinment only after register in the website. 
