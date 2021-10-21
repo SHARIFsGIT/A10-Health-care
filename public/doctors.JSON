@@ -1,0 +1,17 @@
+[
+    {"id":1,"name":"DR. ANUP KUMAR","designation":"Doctor", "department":"Surgery","specialist":"MBBS (DHAKA), MPH, FRSH (UK) PH. D (SURGERY) SURGERY SPECIALIST & SURGEON","image":"http://www.farazyhospitalltd.com/public/assets/images/doctors/doctor_1570287226.jpeg"},
+
+    {"id":2,"name":"DR. KAZI NASID NAZNIN","designation":"Assistant Professor", "department":"Surgery","specialist":"MBBS, FCPS (SURGERY), MS (COLORECTAL SURGERY), GENERAL SURGEON","image":"http://www.farazyhospitalltd.com/public/assets/images/doctors/doctors_1575262649.jpeg"},
+
+    {"id":3,"name":"DR. M. A. HALIM KHAN","designation":"Doctor", "department":"Endocrinology","specialist":"MBBS (DHAKA), BCS (HEALTH), MD-ENDOCRINOLOGY","image":"http://www.farazyhospitalltd.com/public/assets/images/doctors/doctors_1570339224.jpeg"},
+
+    {"id":4,"name":"DR. SONIA AKTER","designation":"Assistant Professor", "department":"Surgery","specialist":"MBBS (DHAKA), MPH, FRSH (UK) PH. D (SURGERY) SURGERY SPECIALIST & SURGEON","image":"http://www.farazyhospitalltd.com/public/assets/images/doctors/doctors_1575263054.jpeg"},
+
+    {"id":5,"name":"DR NAJMUS SAKIB","designation":"Associate Professor", "department":"Orthopedic","specialist":"MBBS, MS (ORTHO-SURGERY) GOLD MEDALIST SRS SCHOLAR (USA)","image":"http://www.farazyhospitalltd.com/public/assets/images/doctors/doctor_1570286399.jpeg"},
+
+    {"id":6,"name":"DR. DEBASISH DEBENATH","designation":"Assistant Professor", "department":"Cardiologist","specialist":"MBBS (DHAKA), D-CARD (BSMMU), CARDIOLOGIST & DIABETOLOGIST","image":"http://www.farazyhospitalltd.com/public/assets/images/doctors/doctor_1570346052.jpeg"},
+
+    {"id":7,"name":"DR. DEWAN AZMAL HUSSAIN","designation":"Assistant Professor", "department":"Chest Specialist","specialist":"MBBS, MCPS (MEDICINE), MD (CHEST DISEASES)","image":"http://www.farazyhospitalltd.com/public/assets/images/doctors/doctors_1575262430.jpeg"},
+
+    {"id":8,"name":"Dr. Ismat Ara","designation":"Consultant", "department":"Oral & Dental","specialist":"Dr. Ismat Ara, B.D.S (Rajshahi Medical Collage), P.G.T (Oral & Maxillofacial Surgery), Dhaka Dental College, B.M.D.C Reg. No.-7084","image":"http://www.farazyhospitalltd.com/public/assets/images/doctors/doctor_1593242355.jpeg"}
+]

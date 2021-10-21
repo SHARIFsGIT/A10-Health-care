@@ -1,0 +1,17 @@
+.card-img{
+height: 400px;
+}
+button{
+    background-color: seagreen;
+    color: aliceblue;
+    padding: 8px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+button:hover{
+    background-color: #20c997;
+    color: black;
+    padding: 8px;
+    border-radius: 5px;
+    font-weight: 600;
+}
